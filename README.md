@@ -27,4 +27,7 @@ jquery and ajax from google api
 
 ### Launch Project
 
-This project only uses php files so you can put them on the root of you faviourite server and navigate to localhost/index.php
+Ensure you have php >v7.4.9
+* Open terminal, navigate to directory with these files and run:
+* $ php -S localhost:4000
+* Go to localhost:4000 in you browser
